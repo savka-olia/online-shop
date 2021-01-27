@@ -26,5 +26,12 @@
         "image": "viking.svg",
         "description": "Viking sticker",
         "price": 34.99
+    },
+    {
+        "id": "5",
+        "title": "Pony",
+        "image": "pony.png",
+        "description": "Pony sticker",
+        "price": 55.99
     }
 ]
